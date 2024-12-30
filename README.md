@@ -1,1 +1,1 @@
-# Random-Quotes-Generator-
+# Random_Quotes_enerator
