@@ -7,6 +7,7 @@ In this you can easily:
 <li>You can generate random Quotes.</li>
 <li>You can easily add quotes that are you want to add.</li>
 <li>If you want to add quotes you can add Author's name.</li>
+<li>You can easily share your quotes on Social Media easily.</li>
 <li>In this app you can delete the quotes that are you think you want to delete.</li>
 </ul>
 
